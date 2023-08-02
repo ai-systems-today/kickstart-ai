@@ -30,9 +30,9 @@ Data obtained from:
 
 1. [Exploratory Data Analysis (EDA)](https://github.com/ai-systems-today/kickstart-ai/blob/7d0dcc7172417e07503deed83e3ed49c979f23fa/churn-forecast/1-Employee_Attrition_EDA.ipynb)
 
-2. [Model Selection](churn-forecast\2-Employee_Attrition_Models.ipynb)
+2. [Model Selection](https://github.com/ai-systems-today/kickstart-ai/blob/7d0dcc7172417e07503deed83e3ed49c979f23fa/churn-forecast/2-Employee_Attrition_Models.ipynb)
 
-3. [Training/ Evaluation](churn-forecast\3-Employee_Attrition__LR_RFC.ipynb)
+3. [Training/ Evaluation](https://github.com/ai-systems-today/kickstart-ai/blob/286650cb164a306eb2f69c198de12ee3bd8c3d44/churn-forecast/3-Employee_Attrition__LR_RFC.ipynb)
 
 *What adjustments need to be made?*
 
