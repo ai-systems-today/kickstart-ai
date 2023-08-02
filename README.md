@@ -28,7 +28,7 @@ Data obtained from:
 
 **Code:**
 
-1. [Exploratory Data Analysis (EDA)](churn-forecast\1-Employee_Attrition_EDA.ipynb)
+1. [Exploratory Data Analysis (EDA)](https://github.com/ai-systems-today/kickstart-ai/blob/7d0dcc7172417e07503deed83e3ed49c979f23fa/churn-forecast/1-Employee_Attrition_EDA.ipynb)
 
 2. [Model Selection](churn-forecast\2-Employee_Attrition_Models.ipynb)
 
